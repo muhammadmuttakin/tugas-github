@@ -1,0 +1,15 @@
+D:\jjj\bin\Debug\net6.0\jjj.exe
+D:\jjj\bin\Debug\net6.0\jjj.deps.json
+D:\jjj\bin\Debug\net6.0\jjj.runtimeconfig.json
+D:\jjj\bin\Debug\net6.0\jjj.dll
+D:\jjj\bin\Debug\net6.0\jjj.pdb
+D:\jjj\obj\Debug\net6.0\jjj.csproj.AssemblyReference.cache
+D:\jjj\obj\Debug\net6.0\jjj.GeneratedMSBuildEditorConfig.editorconfig
+D:\jjj\obj\Debug\net6.0\jjj.AssemblyInfoInputs.cache
+D:\jjj\obj\Debug\net6.0\jjj.AssemblyInfo.cs
+D:\jjj\obj\Debug\net6.0\jjj.csproj.CoreCompileInputs.cache
+D:\jjj\obj\Debug\net6.0\jjj.dll
+D:\jjj\obj\Debug\net6.0\refint\jjj.dll
+D:\jjj\obj\Debug\net6.0\jjj.pdb
+D:\jjj\obj\Debug\net6.0\jjj.genruntimeconfig.cache
+D:\jjj\obj\Debug\net6.0\ref\jjj.dll

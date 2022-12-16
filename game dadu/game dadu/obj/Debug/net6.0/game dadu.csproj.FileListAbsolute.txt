@@ -1,0 +1,15 @@
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\game dadu.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\game dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\game dadu.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\game dadu.AssemblyInfo.cs
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\game dadu.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\bin\Debug\net6.0\game dadu.exe
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\bin\Debug\net6.0\game dadu.deps.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\bin\Debug\net6.0\game dadu.runtimeconfig.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\bin\Debug\net6.0\game dadu.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\bin\Debug\net6.0\game dadu.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\game dadu.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\refint\game dadu.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\game dadu.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\game dadu.genruntimeconfig.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\game dadu\obj\Debug\net6.0\ref\game dadu.dll

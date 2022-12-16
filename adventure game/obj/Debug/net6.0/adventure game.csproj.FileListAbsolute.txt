@@ -1,0 +1,15 @@
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\bin\Debug\net6.0\adventure game.exe
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\bin\Debug\net6.0\adventure game.deps.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\bin\Debug\net6.0\adventure game.runtimeconfig.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\bin\Debug\net6.0\adventure game.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\bin\Debug\net6.0\adventure game.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\adventure game.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\adventure game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\adventure game.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\adventure game.AssemblyInfo.cs
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\adventure game.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\adventure game.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\refint\adventure game.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\adventure game.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\adventure game.genruntimeconfig.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\adventure game\obj\Debug\net6.0\ref\adventure game.dll

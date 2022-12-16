@@ -1,0 +1,15 @@
+C:\Users\MSI MODERN 14\Desktop\daspro\bin\Debug\net6.0\daspro.exe
+C:\Users\MSI MODERN 14\Desktop\daspro\bin\Debug\net6.0\daspro.deps.json
+C:\Users\MSI MODERN 14\Desktop\daspro\bin\Debug\net6.0\daspro.runtimeconfig.json
+C:\Users\MSI MODERN 14\Desktop\daspro\bin\Debug\net6.0\daspro.dll
+C:\Users\MSI MODERN 14\Desktop\daspro\bin\Debug\net6.0\daspro.pdb
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\daspro.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\daspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\daspro.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\daspro.AssemblyInfo.cs
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\daspro.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\daspro.dll
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\refint\daspro.dll
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\daspro.pdb
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\daspro.genruntimeconfig.cache
+C:\Users\MSI MODERN 14\Desktop\daspro\obj\Debug\net6.0\ref\daspro.dll
