@@ -1,0 +1,30 @@
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\bin\Debug\net6.0\1.nametag.exe
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\bin\Debug\net6.0\1.nametag.deps.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\bin\Debug\net6.0\1.nametag.runtimeconfig.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\bin\Debug\net6.0\1.nametag.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\bin\Debug\net6.0\1.nametag.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\1.nametag.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\1.nametag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\1.nametag.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\1.nametag.AssemblyInfo.cs
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\1.nametag.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\1.nametag.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\refint\1.nametag.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\1.nametag.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\1.nametag.genruntimeconfig.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\SOAL NOMOR 1\obj\Debug\net6.0\ref\1.nametag.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\bin\Debug\net6.0\1.nametag.exe
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\bin\Debug\net6.0\1.nametag.deps.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\bin\Debug\net6.0\1.nametag.runtimeconfig.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\bin\Debug\net6.0\1.nametag.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\bin\Debug\net6.0\1.nametag.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\1.nametag.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\1.nametag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\1.nametag.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\1.nametag.AssemblyInfo.cs
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\1.nametag.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\1.nametag.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\refint\1.nametag.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\1.nametag.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\1.nametag.genruntimeconfig.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\1.nametag\obj\Debug\net6.0\ref\1.nametag.dll

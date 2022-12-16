@@ -1,0 +1,15 @@
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\bin\Debug\net6.0\3.menghitung denda.exe
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\bin\Debug\net6.0\3.menghitung denda.deps.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\bin\Debug\net6.0\3.menghitung denda.runtimeconfig.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\bin\Debug\net6.0\3.menghitung denda.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\bin\Debug\net6.0\3.menghitung denda.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\3.menghitung denda.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\3.menghitung denda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\3.menghitung denda.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\3.menghitung denda.AssemblyInfo.cs
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\3.menghitung denda.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\3.menghitung denda.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\refint\3.menghitung denda.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\3.menghitung denda.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\3.menghitung denda.genruntimeconfig.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\3.menghitung denda\obj\Debug\net6.0\ref\3.menghitung denda.dll

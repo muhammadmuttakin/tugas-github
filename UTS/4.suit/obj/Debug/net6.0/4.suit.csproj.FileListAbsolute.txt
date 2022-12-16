@@ -1,0 +1,15 @@
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\bin\Debug\net6.0\4.suit.exe
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\bin\Debug\net6.0\4.suit.deps.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\bin\Debug\net6.0\4.suit.runtimeconfig.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\bin\Debug\net6.0\4.suit.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\bin\Debug\net6.0\4.suit.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\4.suit.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\4.suit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\4.suit.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\4.suit.AssemblyInfo.cs
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\4.suit.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\4.suit.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\refint\4.suit.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\4.suit.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\4.suit.genruntimeconfig.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\UTS\4.suit\obj\Debug\net6.0\ref\4.suit.dll

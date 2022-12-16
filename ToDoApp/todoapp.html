@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To Do App using VueJS</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.15/vue.js"></script>
+</head>
+<body>
+    <h1>To Do App</h1>
+
+    <dis class="todo-list">
+        <input type="text" v-model="item" />
+        <input type="submit" value="add item" v-on:click="addItem" />
+
+        <p v-if="!items.length">No items</p>
+        <ul v-if="items.length">
+            <li v-for="item in items">
+                {{ item.name }} - <a href="" v-onclick="removeItem(item)">Remove</a>
+            </li>
+        </ul>
+
+    </dis>
+    <script>
+        new Vue({
+            el: ".todo-list",
+            data: {
+                items: [],
+                item: '',
+            },
+            methods: {
+                addItem: function () {
+                    var item = {
+                        id: Date.now(),
+                        name: this.item
+                    };
+                    this.items.push(item);
+                    this.item = '';
+                },
+                removeItem: function(item){
+                    var newItem = this.item.filter(function (i){
+                        return item.id !== i.id;
+                    });
+                    this.item = newItem
+                }
+            }
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\bin\Debug\net6.0\tebakkata.exe
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\bin\Debug\net6.0\tebakkata.deps.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\bin\Debug\net6.0\tebakkata.runtimeconfig.json
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\bin\Debug\net6.0\tebakkata.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\bin\Debug\net6.0\tebakkata.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\tebakkata.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\tebakkata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\tebakkata.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\tebakkata.AssemblyInfo.cs
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\tebakkata.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\tebakkata.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\refint\tebakkata.dll
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\tebakkata.pdb
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\tebakkata.genruntimeconfig.cache
+C:\Users\MSI MODERN 14\OneDrive\Desktop\tebakkata\obj\Debug\net6.0\ref\tebakkata.dll
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\bin\Debug\net6.0\tebakkata.exe
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\bin\Debug\net6.0\tebakkata.deps.json
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\bin\Debug\net6.0\tebakkata.runtimeconfig.json
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\bin\Debug\net6.0\tebakkata.dll
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\bin\Debug\net6.0\tebakkata.pdb
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\tebakkata.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\tebakkata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\tebakkata.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\tebakkata.AssemblyInfo.cs
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\tebakkata.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\tebakkata.dll
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\refint\tebakkata.dll
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\tebakkata.pdb
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\tebakkata.genruntimeconfig.cache
+C:\Users\MSI MODERN 14\OneDrive\New folder\tebakkata\obj\Debug\net6.0\ref\tebakkata.dll
